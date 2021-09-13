@@ -3394,10 +3394,10 @@ electron-apps@1.8899.0:
     mime-types "^2.1.30"
     rev-hash "^3.0.0"
 
-electron-i18n@1.3090.0:
-  version "1.3090.0"
-  resolved "https://registry.yarnpkg.com/electron-i18n/-/electron-i18n-1.3090.0.tgz#9b6af534bdb0b42a6be7a3a4aaa68b681b5a7a45"
-  integrity sha512-C0LbfexJGKuL3iUKh6g6UdonzcCL0N3sJ2nqEdL0AUjLg5k+3bRpwrjNgvMisliEljk3mpZfkhp7g8+a4tJhVA==
+electron-i18n@1.3114.0:
+  version "1.3114.0"
+  resolved "https://registry.yarnpkg.com/electron-i18n/-/electron-i18n-1.3114.0.tgz#486a060563729b936658d474dd686bb875561a03"
+  integrity sha512-lf+VJekmJZa+DAfuBFfjj9cqPqCD2SQ8POW42vdzw78SazVVpPnO3rFtwL11lL0IAPwFvVt3mZG7jZW3q1cyrg==
 
 electron-markdown@^0.8.2:
   version "0.8.2"
