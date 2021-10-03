@@ -3396,19 +3396,19 @@ electron-api-historian@1.63.0:
   resolved "https://registry.yarnpkg.com/electron-api-historian/-/electron-api-historian-1.63.0.tgz#02e0d11ab24102bd62fa4b6353cdc90fd9f76e98"
   integrity sha512-AQ2h1+EHlNGputYRQ+VZq0TXuDY5pWc2d67xBVCGs+YQ4AJgGraSDe0b6+GAkyQgEkksZPhyk9Dv7Pjv+SLs4A==
 
-electron-apps@1.8975.0:
-  version "1.8975.0"
-  resolved "https://registry.yarnpkg.com/electron-apps/-/electron-apps-1.8975.0.tgz#c4ecec143be085011369a5800f8bb2e93e8b5b8b"
-  integrity sha512-gWHi/u6wBzhSLsGvBkf388E0v7wZ2iDOGzx2tDrSg976WM/QSNqc4fdn5+7mqsTns4v5hzDI7A5MJa0fe5q2Fg==
+electron-apps@1.8977.0:
+  version "1.8977.0"
+  resolved "https://registry.yarnpkg.com/electron-apps/-/electron-apps-1.8977.0.tgz#eb3141f39c86038c6bcd77faada8683bb0b2b757"
+  integrity sha512-JnMBwLNLBgT9luz4ip6jyQs1sWuc+m3th1iPPEjtYBMc4CU0xaRDwBGktXIa4lR33csT7FutaRHIjW81ZM9eKA==
   dependencies:
     json-stable-stringify "^1.0.1"
     mime-types "^2.1.30"
     rev-hash "^3.0.0"
 
-electron-i18n@1.3133.0:
-  version "1.3133.0"
-  resolved "https://registry.yarnpkg.com/electron-i18n/-/electron-i18n-1.3133.0.tgz#affb91e77882a2dc13f66f0b2f152a313c75c3b4"
-  integrity sha512-tUBrvhneK/AYmyiZ4lfwmhfeFhE60/h6Go3rzuzoeyi6BL0sZGSm22d6jxQkLYKVVW9jxg7R2A+ECMxqQ9YpOg==
+electron-i18n@1.3134.0:
+  version "1.3134.0"
+  resolved "https://registry.yarnpkg.com/electron-i18n/-/electron-i18n-1.3134.0.tgz#a4472eeceb8ec0d6d61e40e9e87cc0ae7f826831"
+  integrity sha512-7WT3knN7lafdq9Ibpvc14iWKtwWo7EsMIuxtlNJHPQ3Ya43epdeN4TjetDIy7a8trLbytl8PGsqnaf0qOiczxg==
 
 electron-markdown@^0.8.2:
   version "0.8.2"
