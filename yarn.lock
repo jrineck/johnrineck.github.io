@@ -8617,10 +8617,10 @@ to-regex-range@^5.0.1:
   dependencies:
     is-number "^7.0.0"
 
-tocbot@^4.13.0:
-  version "4.13.0"
-  resolved "https://registry.yarnpkg.com/tocbot/-/tocbot-4.13.0.tgz#262f1c34f43a506bb4b3f7b7455a4762d163d867"
-  integrity sha512-usmeF93Yhn8+FknLNDMHN+O2TCT5eNZ8r6mSzms6jPwc1hXqr5c082qShNsePhO6I8eUT2XM8fyW/2iuqj25gg==
+tocbot@^4.17.1:
+  version "4.17.1"
+  resolved "https://registry.yarnpkg.com/tocbot/-/tocbot-4.17.1.tgz#7dfba4ed46dca2f3d2bcc4c3b75bdea5031ce2e7"
+  integrity sha512-kBi0gnH0FUbhNNzRMTgBy9HujpQHJe3/ehyF4IZQ/O2d3qvL2QwCzpvFsXms0z0Ughv6HwKu/PDW/ZsFEajN3g==
 
 toidentifier@1.0.0:
   version "1.0.0"
